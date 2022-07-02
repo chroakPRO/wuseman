@@ -29,7 +29,7 @@ wuseman, somwhere in space >          .'     '.      _      *      *
      / \  `.  __..-,O
     :   \ --''_..-'.'
     |    . .-' `. '.
-    :     .     .`.'
+    :     .     .`.'                     
      \     `.  /  ..
       \      `.   ' .
        `,       `.   \
@@ -43,8 +43,23 @@ wuseman, somwhere in space >          .'     '.      _      *      *
  __//__||__\\__                         ~\_(/-\)'-,_,_,_,-'(_)-(_) - Naughty!
 ``` 
  
+
+``` 
+Revealing backdoors and getting new devices is not free. If you appreciate my job, feel free to 
+contribute for even more hacks, this is the only donation link that I use. 
+Everyone else who creates videos with my tools on youtube etc. does NOT go to me and I do not create 
+any videos outside of Github except on my distros wiki! . I will continue to reveal all the back doors 
+I can access regardless, but a grant makes things easier for me to buy tools, among other things. 
+
+If you want to contribute something, it is always welcome, thank you! But it is of course voluntary. 
+I spend every spare second to make the internet to a better place and I share everything in plain text, open source! <3
+
+// wuseman
+``` 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/26827453/176996618-ee94e353-c6da-4cd9-934c-1a759ac32383.png" />
+  <h2 align="center">BTC: bc1qttu75jcsamugf4qgp446v3e4nvgeeq4emlpzgv</h2>
+
 </p>
 
 
