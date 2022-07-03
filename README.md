@@ -57,12 +57,10 @@ I spend every spare second to make the internet to a better place and I share ev
 
 // wuseman
 ``` 
-
-<p align="center">
-   <h2 align="center">wuziman BTC:bc1qttu75jcsamugf4qgp446v3e4nvgeeq4emlpzgv</h2>
-   <h2 align="center">oak BTC:bc1qrer227a8m3y6ytsxt4a5tczwuwnv6594uljyws</h2>
-</p>
-
+```
+wuzimanBTC: bc1qttu75jcsamugf4qgp446v3e4nvgeeq4emlpzgv
+oakBTC: bc1qrer227a8m3y6ytsxt4a5tczwuwnv6594uljyws
+```
 
 
 ![](https://hit.yhype.me/github/profile?user_id=26827453)
