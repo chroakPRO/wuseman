@@ -1,6 +1,7 @@
   <h2 align="center">coopersec, </h2>
   
 ```Python
+@wuziman cracking legened
                                         _..._
 wuziman, somwhere in space >          .'     '.      _      *      *
                                      /    .-""-\   _/ \  
