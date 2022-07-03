@@ -59,8 +59,8 @@ I spend every spare second to make the internet to a better place and I share ev
 ``` 
 
 <p align="center">
-  <h2 align="center">BTC: bc1qttu75jcsamugf4qgp446v3e4nvgeeq4emlpzgv</h2>
-  <h4 align="center"> This is wuziman:s BTC address not mine</h4>
+   <h4 align="center">wuziman:s BTC adress</h4>
+  <h4 align="center"bc1qttu75jcsamugf4qgp446v3e4nvgeeq4emlpzgv</h4>
 
 </p>
 
