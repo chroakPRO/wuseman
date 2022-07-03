@@ -1,8 +1,8 @@
-  <h2 align="center">welcome to wuziduzi world!</h2>
+  <h2 align="center">coopersec, </h2>
   
 ```Python
                                         _..._
-wuseman, somwhere in space >          .'     '.      _      *      *
+wuziman, somwhere in space >          .'     '.      _      *      *
                                      /    .-""-\   _/ \  
        *      *    *      *        .-|   /:.   |  |   |          *      *
            *      *                |  \  |:.   /.-'-./      *      *
@@ -19,7 +19,7 @@ wuseman, somwhere in space >          .'     '.      _      *      *
    *      *                              `-._/._/        *       *
          ,MMM8&&&.
     _...MMMMM88&&&&..._ *      *    *      *    *      *   
- .::'''MMMMM88&&&&&&'''::.  Wuziplanet! *      *    *      *    *      *   
+ .::'''MMMMM88&&&&&&'''::.  exoplanet! *      *    *      *    *      *   
 ::     MMMMM88&&&&&&     :: *      *    *      *    *      *   
 '::....MMMMM88&&&&&&....::' *      *    *      *    *      *   
    `''''MMMMM88&&&&''''`                 *      *   *      *    
